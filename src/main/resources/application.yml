@@ -1,0 +1,9 @@
+server:
+  port: 9000
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/springboot-security?serverTimeZone=GMT+8&useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: root
+    password: xxx
